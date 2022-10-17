@@ -1,7 +1,7 @@
 ## Интересные проекты
 
 `HeadHunter` **[HH](https://hh.ru/resume/08a7951dff074a67170039ed1f5055306e417a)**
-`Хабр Карьера` **[Habr](https://career.habr.com/liftchampion)
+`Хабр Карьера` **[Habr](https://career.habr.com/liftchampion)**
 
 `C` **[lem_in](https://github.com/liftchampion/lem_in)** - Поиск оптимального потока на графе  
 `C` **[filler](https://github.com/liftchampion/filler)** - Игрок в игру, похожую на *точки*; волновая оценка путей  
