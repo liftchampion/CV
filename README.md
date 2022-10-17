@@ -1,7 +1,3 @@
-# CV
-
-[Резюме](https://github.com/liftchampion/CV/blob/master/Gleb%20Titov.pdf)
-
 ## Интересные проекты
 
 `C` **[lem_in](https://github.com/liftchampion/lem_in)** - Поиск оптимального потока на графе  
