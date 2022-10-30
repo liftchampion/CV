@@ -1,9 +1,12 @@
-## Интересные проекты
+## CVs
 
 `HeadHunter` **[HH](https://hh.ru/resume/08a7951dff074a67170039ed1f5055306e417a)**
 
 `Хабр Карьера` **[Habr](https://career.habr.com/liftchampion)**
 
+## Interesting Projects
+
+`C++` **[braille](https://github.com/liftchampion/BrailleGeometry)** - Рисование геометрических фигур шрифтом Брайля
 `C` **[lem_in](https://github.com/liftchampion/lem_in)** - Поиск оптимального потока на графе  
 `C` **[filler](https://github.com/liftchampion/filler)** - Игрок в игру, похожую на *точки*; волновая оценка путей  
 `C` **[libft](https://github.com/liftchampion/libft)** - Богатая библиотека функций; красно-чёрные деревья  
