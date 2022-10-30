@@ -6,7 +6,7 @@
 
 ## Interesting Projects
 
-`C++` **[braille](https://github.com/liftchampion/BrailleGeometry)** - Рисование геометрических фигур шрифтом Брайля
+`C++` **[braille](https://github.com/liftchampion/BrailleGeometry)** - Рисование геометрических фигур шрифтом Брайля  
 `C` **[lem_in](https://github.com/liftchampion/lem_in)** - Поиск оптимального потока на графе  
 `C` **[filler](https://github.com/liftchampion/filler)** - Игрок в игру, похожую на *точки*; волновая оценка путей  
 `C` **[libft](https://github.com/liftchampion/libft)** - Богатая библиотека функций; красно-чёрные деревья  
